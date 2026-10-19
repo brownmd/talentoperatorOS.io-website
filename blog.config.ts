@@ -6,7 +6,7 @@ export const CONFIG = {
   darkBackground: "#1a1a1a",
   resume: {
     link: "/resume.pdf",
-    show: true,
+    show: false,
   },
 };
 
